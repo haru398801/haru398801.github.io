@@ -1,5 +1,5 @@
 title: haru's blog
-description: haru GitHub Pages.
-show_downloads: true
+description: haru GitHub Pages
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-hacker
